@@ -1,4 +1,5 @@
 # KATA
+Check this out to know more about code kata used to hone skills: https://en.wikipedia.org/wiki/Kata_(programming)
 
 ## Kata Done
 
