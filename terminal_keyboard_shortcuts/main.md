@@ -5,9 +5,9 @@ They gonna help you a lot in your day by day on the terminal.
 
 ## Before start
 
-- Symbols:
+- Symbols:  
     **^** - Control  
-    **%** - Alt
+    **%** - Alt  
 
 
 ### Kata 1
