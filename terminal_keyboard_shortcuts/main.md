@@ -6,7 +6,7 @@ They gonna help you a lot in your day by day on the terminal.
 ## Before start
 
 - Symbols:
-    **^** - Control
+    **^** - Control  
     **%** - Alt
 
 
@@ -20,8 +20,7 @@ They gonna help you a lot in your day by day on the terminal.
 - Back to the begin of the line: **^a**
 - Forward to the end of the line: **^e**
 - Back 7 character: 7x **^b**
-- Go to the end of the line again but now forwarding characteres: 7x Go to the end of the line again but now forwarding
-    characteres **^f**
+- Go to the end of the line again but now forwarding characteres: 7x **^f**
 - Back to the last pipe: 4x **%b**
 - Forward to the end again using: 4x **%f**
 - Delete `-9` not using backspace or delete key: 2x **^h**
