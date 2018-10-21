@@ -3,7 +3,7 @@ Check this out to know more about code kata used to hone skills: https://en.wiki
 
 ## Kata Done
 
-[terminal keyboard shortcuts] (https://github.com/brunocriado/kata/tree/master/terminal_keyboard_shortcuts)
+[terminal keyboard shortcuts](https://github.com/brunocriado/kata/tree/master/terminal_keyboard_shortcuts)
 
 
 ## Kata Todo
